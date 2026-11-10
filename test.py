@@ -1,6 +1,5 @@
-print("Python")
-# new strings
-print ("DICT")
+print("Python education")
+
 
 print("Python education")
 # new string
